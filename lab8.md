@@ -54,3 +54,13 @@ Pull Request:
 ![image](https://user-images.githubusercontent.com/61073477/113642855-5c7de900-96b3-11eb-8f4c-b2a3ffa81ddb.png)
 
 Link: https://github.com/Amurozyh/Lab8-cmake
+
+## CheckPoint 5
+
+FareSplitter
+Observatory: https://rcos.io/projects/tyromancer/faresplitter-backend/profile
+Blog: https://rcos.io/projects/tyromancer/faresplitter-backend/blog
+Github repo:
+https://github.com/Tyromancer/FareSplitter-frontend
+https://github.com/Tyromancer/FareSplitter-backend
+Collaborator: Bogong Yang, Ruizhe (Steven) Li, Yinhao Zhao, Chuanfeng Xiong
